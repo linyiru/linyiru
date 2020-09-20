@@ -1,3 +1,3 @@
 # About me
 
-:point_right: @ me on [Twitter](https://twitter.com/linyiru)
+:point_right: Follow me on [Twitter](https://twitter.com/linyiru)
