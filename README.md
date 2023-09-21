@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lawrence
+👋 Hi, I'm Lawrence
 
 ## Now
 
