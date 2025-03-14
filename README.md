@@ -2,7 +2,7 @@
 
 ## Now
 
-* Building [Teachify](https://useteachify.com/)
+* Building [Teachify](https://teachify.com/)
 * Building **AnyHive**:
   * a community-building platform
   * Open source: [github.com/anyhive/anyhive](https://github.com/anyhive/anyhive)
