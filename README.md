@@ -10,8 +10,8 @@ Builder, developer, writer.
 
 ## Current open-source projects
 
-* - 🖥️ **[paid-tw/cli](https://github.com/paid-tw/skills)** - Agent Skills for Taiwan PSPs(Payment service providers)
-* - 🖥️ **[paid-tw/cli](https://github.com/paid-tw/cli)** - CLI tools for Taiwan PSPs
+- 🖥️ **[paid-tw/cli](https://github.com/paid-tw/skills)** - Agent Skills for Taiwan PSPs(Payment service providers)
+- 🖥️ **[paid-tw/cli](https://github.com/paid-tw/cli)** - CLI tools for Taiwan PSPs
  
 ## Connect
 
