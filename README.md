@@ -2,7 +2,23 @@
 
 ## Now
 
-* Building [Anyhive](https://github.com/anyhive/anyhive)
+Builder, developer, writer. 
+
+* Building [Loopwise AI](https://loopwise.ai/)
 * Building [Teachify](https://teachify.com/)
+* Building [Anyhive](https://github.com/anyhive/anyhive)
+
+## Current open-source projects
+
+* - 🖥️ **[paid-tw/cli](https://github.com/paid-tw/skills)** - Agent Skills for Taiwan PSPs(Payment service providers)
+* - 🖥️ **[paid-tw/cli](https://github.com/paid-tw/cli)** - CLI tools for Taiwan PSPs
+ 
+## Connect
 
 :point_right: Follow me on [X](https://x.com/linyiru)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/linyiru)
+
+
