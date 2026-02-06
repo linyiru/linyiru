@@ -12,6 +12,7 @@ Builder, developer, writer.
 
 - 🖥️ **[paid-tw/skills](https://github.com/paid-tw/skills)** - Agent Skills for Taiwan PSPs(Payment service providers)
 - 🖥️ **[paid-tw/cli](https://github.com/paid-tw/cli)** - CLI tools for Taiwan PSPs
+- **[invoice-helper](https://github.com/kaikhq/invoice-helper) - Invoice helper for Taiwan
  
 ## Connect
 
