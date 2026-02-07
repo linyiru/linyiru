@@ -13,6 +13,7 @@
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
 - 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
 - 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
+- ⚡ **[mcp-server-vercel-template](https://github.com/linyiru/mcp-server-vercel-template)** — Production-ready MCP server template for Vercel + Bun
 
 ## Connect
 
