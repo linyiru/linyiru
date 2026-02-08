@@ -7,7 +7,7 @@
 - 🚀 Building [Loopwise AI](https://loopwise.ai/)
 - 🎓 Building [Teachify](https://teachify.com/)
 - 🐝 Building [Anyhive](https://github.com/anyhive/anyhive)
-  💳 Building [Recur](https://recur.tw/)
+- 💳 Building [Recur](https://recur.tw/)
 
 ## Current open-source projects
 
