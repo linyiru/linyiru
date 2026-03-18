@@ -7,11 +7,11 @@
 - 🚀 Building [Loopwise AI](https://loopwise.ai/)
 - 💳 Building [Recur](https://recur.tw/)
 - 🐝 Building [Anyhive](https://github.com/anyhive/anyhive)
-- 🔗 Building [hookflare](https://github.com/hookedge/hookflare)
+- 🔗 Building [hookpipe](https://github.com/hookpipe/hookpipe)
 
 ## Current open-source projects
 
-- 🔗 **[hookflare](https://github.com/hookedge/hookflare)** — Open-source webhook gateway for Stripe, GitHub, Slack. Auto-retries, agent-friendly CLI, runs on Cloudflare Workers.
+- 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
 - 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
 - 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
