@@ -4,9 +4,8 @@
 
 🛠️ Builder · 💻 Developer · ✍️ Writer
 
-- 🚀 Building [Loopwise AI](https://loopwise.ai/)
+- 🚀 Building [Loopwise](https://loopwise.ai/)
 - 💳 Building [Recur](https://recur.tw/)
-- 🐝 Building [Anyhive](https://github.com/anyhive/anyhive)
 - 🔗 Building [hookpipe](https://github.com/hookpipe/hookpipe)
 
 ## Current open-source projects
