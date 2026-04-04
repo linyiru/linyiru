@@ -4,6 +4,7 @@
 
 🛠️ Builder · 💻 Developer · ✍️ Writer
 
+- 🚀 Building [Loopix](https://loopix.com/)
 - 🚀 Building [Loopwise](https://loopwise.ai/)
 - 💳 Building [Recur](https://recur.tw/)
 - 🔗 Building [hookpipe](https://github.com/hookpipe/hookpipe)
