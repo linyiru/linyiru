@@ -4,6 +4,7 @@
 
 🛠️ Builder · 💻 Developer · ✍️ Writer
 
+- 🚀 Building [Creek](https://github.com/solcreek/creek)
 - 🚀 Building [Loopix](https://loopix.com/)
 - 🚀 Building [Loopwise](https://loopwise.ai/)
 - 💳 Building [Recur](https://recur.tw/)
