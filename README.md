@@ -13,7 +13,7 @@
 ## Current open-source projects
 
 - 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
-- ⚓ **[capstan](https://github.com/solcreek/capstan)** — Multi-provider VPS lifecycle library. Hetzner, DigitalOcean, Linode, Vultr behind one TypeScript interface.
+- ⚓ **[capstan](https://github.com/solcreek/capstan)** — Multi-provider VPS lifecycle library — Hetzner, DigitalOcean, Linode, Vultr. TypeScript + Go, one shared spec.
 - 🔥 **[groundflare](https://github.com/solcreek/groundflare)** — Run your Cloudflare Worker on your own hardware. Wrangler-like DX for self-hosted workerd.
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
