@@ -17,6 +17,7 @@
 - 🔥 **[groundflare](https://github.com/solcreek/groundflare)** — Run your Cloudflare Worker on your own hardware. Wrangler-like DX for self-hosted workerd.
 - 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
+- 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
 - 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
 - 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
