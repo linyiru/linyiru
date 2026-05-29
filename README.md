@@ -18,6 +18,8 @@
 - ⚓ **[capstan](https://github.com/solcreek/capstan)** — Multi-provider VPS lifecycle library — Hetzner, DigitalOcean, Linode, Vultr. TypeScript + Go, one shared spec.
 - 🔥 **[groundflare](https://github.com/solcreek/groundflare)** — Run your Cloudflare Worker on your own hardware. Wrangler-like DX for self-hosted workerd.
 - 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
+- ⛵ **[marina](https://github.com/solcreek/marina)** — Desktop app for managing containers, VMs, and VPS instances via Dew.
+- 🌳 **[grove](https://github.com/solcreek/grove)** — Desktop app for discovering and running open-source applications via Dew.
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
 
 ### Translation
