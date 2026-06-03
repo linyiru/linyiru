@@ -20,6 +20,7 @@
 - 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
 - ⛵ **[marina](https://github.com/solcreek/marina)** — Desktop app for managing containers, VMs, and VPS instances via Dew.
 - 🌳 **[grove](https://github.com/solcreek/grove)** — Desktop app for discovering and running open-source applications via Dew.
+- 🧊 **[frost](https://github.com/solcreek/frost)** — Freeze and instantly thaw Windows-on-ARM VMs on Apple Silicon. Golden image builder + ~10s resume from snapshot.
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
 
 ### Translation
