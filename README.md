@@ -31,6 +31,7 @@
 ### Language & Runtime
 
 - 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
+- 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 
 ### Taiwan Payments
 
