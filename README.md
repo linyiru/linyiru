@@ -33,6 +33,10 @@
 - 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
 - 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 
+### Data & Research
+
+- 📊 **[yc-oss-analytics](https://github.com/linyiru/yc-oss-analytics)** — How YC open-source teams *actually* build — work intensity, tech stack & workflow, decoded from public git history (~158 companies). Python pipeline + Astro site.
+
 ### Taiwan Payments
 
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
