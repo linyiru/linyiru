@@ -32,6 +32,7 @@
 
 - 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
 - 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
+- 🌼 **[june](https://github.com/junebuild/june)** — Agent-native React framework: one route serves humans (streamed HTML) and agents (markdown, JSON, MCP) from the same source. Rust + V8 runtime, edge-first.
 
 ### Data & Research
 
