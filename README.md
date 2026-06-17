@@ -33,6 +33,7 @@
 - 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
 - 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 - 🌼 **[june](https://github.com/junebuild/june)** — Agent-native React framework: one route serves humans (streamed HTML) and agents (markdown, JSON, MCP) from the same source. Rust + V8 runtime, edge-first.
+- 📚 **[kura](https://github.com/kurajs/kura)** — The knowledgebase for humans and agents. Agent-native docs infrastructure built on June — one Markdown source becomes a docs site *and* a callable MCP server.
 - 📝 **[rostdown](https://github.com/momiji-rs/rostdown)** — A kramdown-compatible Markdown renderer in Rust: byte-identical HTML or a clean decline. Zero-dep, unsafe-free default build.
 - 🌈 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
 
