@@ -46,6 +46,7 @@
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
 - 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
 - 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
+- 🧮 **[einvoice](https://github.com/paid-tw/einvoice)** — Unified e-invoice SDK for Taiwan — one provider-agnostic interface across Amego, ECPay, ezPay & the MOF platform.
 
 ### Templates
 
