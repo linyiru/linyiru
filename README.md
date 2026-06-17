@@ -34,7 +34,7 @@
 - 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 - 🌼 **[june](https://github.com/junebuild/june)** — Agent-native React framework: one route serves humans (streamed HTML) and agents (markdown, JSON, MCP) from the same source. Rust + V8 runtime, edge-first.
 - 📝 **[rostdown](https://github.com/momiji-rs/rostdown)** — A kramdown-compatible Markdown renderer in Rust: byte-identical HTML or a clean decline. Zero-dep, unsafe-free default build.
-- 🔴 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
+- 🌈 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
 
 ### Data & Research
 
