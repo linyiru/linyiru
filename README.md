@@ -22,6 +22,7 @@
 - 🌳 **[grove](https://github.com/solcreek/grove)** — Desktop app for discovering and running open-source applications via Dew.
 - 🧊 **[frost](https://github.com/solcreek/frost)** — Freeze and instantly thaw Windows-on-ARM VMs on Apple Silicon. Golden image builder + ~10s resume from snapshot.
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
+- 🌐 **[terraform-provider-gandi](https://github.com/solcreek/terraform-provider-gandi)** — Terraform/OpenTofu provider for Gandi — domains, nameservers, glue records & LiveDNS via the Gandi v5 API. Dependency-free Go client.
 
 ### Translation
 
