@@ -41,6 +41,7 @@
 ### Data & Research
 
 - 📊 **[yc-oss-analytics](https://github.com/linyiru/yc-oss-analytics)** — How YC open-source teams *actually* build — work intensity, tech stack & workflow, decoded from public git history (~158 companies). Python pipeline + Astro site.
+- 🗂️ **[awesome-okf](https://github.com/linyiru/awesome-okf)** — A curated list of resources for the Open Knowledge Format (OKF) — an open, vendor-neutral spec for agent-readable knowledge as Markdown + YAML frontmatter.
 
 ### Taiwan Payments
 
