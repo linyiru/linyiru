@@ -55,6 +55,12 @@
 
 - ⚡ **[mcp-server-vercel-template](https://github.com/linyiru/mcp-server-vercel-template)** — Production-ready MCP server template for Vercel + Bun
 
+## Contributions
+
+> Projects I contribute to, but don't maintain.
+
+- ⚓ **[oxc](https://github.com/oxc-project/oxc)** — High-performance JavaScript tools in Rust. Landed performance optimizations across the linter, transformer, semantic analyzer & formatter.
+
 ## Connect
 
 👉 Follow me on [X](https://x.com/linyiru)
