@@ -4,6 +4,8 @@
 
 🛠️ Builder · 💻 Developer · ✍️ Writer
 
+🦀 I work across **Rust · Ruby · Go · TypeScript/JavaScript**, and I'm all-in on the **Rust ecosystem** — most of my open source reimagines the JS/web toolchain in Rust.
+
 - 🌊 Building [Creek](https://github.com/solcreek/creek) — Open-source edge deployment platform. Deploy full-stack apps to Cloudflare Workers in seconds.
 - 🔄 Building [Loopix](https://loopix.com/)
 - 🧠 Building [Loopwise](https://loopwise.ai/)
@@ -57,7 +59,7 @@
 
 ## Contributions
 
-> Projects I contribute to, but don't maintain.
+> Projects I contribute to, but don't maintain — mostly the Rust-powered JS/web toolchain.
 
 - ⚓ **[oxc](https://github.com/oxc-project/oxc)** — High-performance JavaScript tools in Rust. Landed performance optimizations across the linter, transformer, semantic analyzer & formatter.
 
