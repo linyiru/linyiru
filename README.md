@@ -40,6 +40,7 @@
 - 📝 **[rostdown](https://github.com/momiji-rs/rostdown)** — A kramdown-compatible Markdown renderer in Rust: byte-identical HTML or a clean decline. Zero-dep, unsafe-free default build.
 - ✨ **[sparkdown](https://github.com/momiji-rs/sparkdown)** — A fast, standards-first CommonMark parser in Rust: 100% CommonMark 0.31.2 (652/652), zero dependencies. *markdown, with a spark.*
 - 🌈 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
+- 💎 **[oxidecop](https://github.com/momiji-rs/oxidecop)** — A fast, native, RuboCop-compatible Ruby linter & autocorrector in Rust, over the Prism parser. *ruff, but for Ruby* — byte-identical output.
 
 ### Data & Research
 
