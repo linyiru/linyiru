@@ -26,6 +26,7 @@
 - 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
 - 🌐 **[terraform-provider-gandi](https://github.com/solcreek/terraform-provider-gandi)** — Terraform/OpenTofu provider for Gandi — domains, nameservers, glue records & LiveDNS via the Gandi v5 API. Dependency-free Go client.
 - 🖼️ **[oximg](https://github.com/oximg/oximg)** — High-performance image compression in Rust: library, CLI & self-hostable HTTP server. Linear-light SIMD resize + mozjpeg. An imgproxy/imagor alternative.
+- 💰 **[monetakit](https://github.com/MonetaKit/monetakit)** — Pricing & subscriptions as code, PSP-agnostic. Author pricing in a Planfile, `plan`/`apply` to any PSP. Self-hostable Go binary + runtime SDK.
 
 ### Translation
 
