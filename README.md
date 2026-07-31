@@ -55,6 +55,7 @@
 - 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
 - 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
 - 🧮 **[einvoice](https://github.com/paid-tw/einvoice)** — Unified e-invoice SDK for Taiwan — one provider-agnostic interface across Amego, ECPay, ezPay & the MOF platform.
+- 💳 **[payment](https://github.com/paid-tw/payment)** — Unified payment gateway SDK for Taiwan — one `PaymentProvider` interface across PAYUNi, NewebPay & ECPay.
 
 ### Templates
 
