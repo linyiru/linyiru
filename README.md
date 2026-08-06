@@ -49,6 +49,11 @@
 - 📊 **[yc-oss-analytics](https://github.com/linyiru/yc-oss-analytics)** — How YC open-source teams *actually* build — work intensity, tech stack & workflow, decoded from public git history (~158 companies). Python pipeline + Astro site.
 - 🗂️ **[awesome-okf](https://github.com/linyiru/awesome-okf)** — A curated list of resources for the Open Knowledge Format (OKF) — an open, vendor-neutral spec for agent-readable knowledge as Markdown + YAML frontmatter.
 
+### API Clients
+
+- 🟦 **[circle-so-sdk](https://github.com/linyiru/circle-so-sdk)** — Typed, zero-dependency TypeScript client for the Circle.so Admin API v2 — members, spaces, access groups, token-version detection, plus captured fixtures.
+- 🔴 **[circle-so](https://github.com/linyiru/circle-so)** — Zero-dependency Ruby client for the Circle.so Admin API v2 — full coverage of all 68 endpoints, classified errors, token-version detection.
+
 ### Taiwan Payments
 
 - 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
