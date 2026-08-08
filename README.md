@@ -71,6 +71,7 @@
 > Projects I contribute to, but don't maintain — mostly the Rust-powered JS/web toolchain.
 
 - ⚓ **[oxc](https://github.com/oxc-project/oxc)** — High-performance JavaScript tools in Rust. Landed performance optimizations across the linter, transformer, semantic analyzer & formatter.
+- 🧾 **[abookyun/einvoice](https://github.com/abookyun/einvoice)** — Ruby API wrapper for Taiwan e-invoice services. Fixed latent validator bugs, enabled TLS certificate verification & repaired the CI workflow.
 
 ## Connect
 
