@@ -54,6 +54,7 @@
 
 - 🟦 **[circle-so-sdk](https://github.com/linyiru/circle-so-sdk)** — Typed, zero-dependency TypeScript client for the Circle.so Admin API v2 — members, spaces, access groups, token-version detection, plus captured fixtures.
 - 🔴 **[circle-so](https://github.com/linyiru/circle-so)** — Zero-dependency Ruby client for the Circle.so Admin API v2 — full coverage of all 68 endpoints, classified errors, token-version detection.
+- 💌 **[kit-rb](https://github.com/linyiru/kit-rb)** — A modern, fully-typed Ruby client for the Kit (ConvertKit) API v4 — all 83 operations, pinned to the vendored OpenAPI document by contract tests.
 
 ### Taiwan Payments
 
