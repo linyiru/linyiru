@@ -28,6 +28,7 @@
 - 🖼️ **[oximg](https://github.com/oximg/oximg)** — High-performance image compression in Rust: library, CLI & self-hostable HTTP server. Linear-light SIMD resize + mozjpeg. An imgproxy/imagor alternative.
 - 💰 **[monetakit](https://github.com/MonetaKit/monetakit)** — Pricing & subscriptions as code, PSP-agnostic. Author pricing in a Planfile, `plan`/`apply` to any PSP. Self-hostable Go binary + runtime SDK.
 - 🔧 **[kinsta-cli](https://github.com/linyiru/kinsta-cli)** — Unofficial CLI for managing Kinsta-hosted WordPress sites — bulk health checks, log diagnostics, cache/PHP control, one-shot wp-rocket PHP 8 remediation.
+- 🔥 **[firerunner](https://github.com/solcreek/firerunner)** — Ephemeral Firecracker microVM runners for GitHub Actions — one disposable microVM per job, minimal-dependency Go, direct Firecracker API.
 
 ### Translation
 
