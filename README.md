@@ -52,6 +52,7 @@
 
 - 📸 **[termshot](https://github.com/momiji-rs/termshot)** — Turn raw terminal output (a PTY log with ANSI escapes) into a PNG of the final screen, pixel-identical on macOS and Linux. Headless Rust, no crates.io dependencies.
 - 🎧 **[agentamp](https://github.com/momiji-rs/agentamp)** — A tiny, agent-native terminal music player for Spotify, YouTube and local files. One Rust binary; every control is a CLI command with `--json` and an MCP tool.
+- 📥 **[crisp-tui](https://github.com/solcreek/crisp-tui)** — A terminal inbox for Crisp, built on OpenTUI and crispctl. People use the TUI; agents use JSON commands and can prepare reply drafts for human review.
 
 ### Data & Research
 
@@ -64,6 +65,7 @@
 - 🔴 **[circle-so](https://github.com/linyiru/circle-so)** — Zero-dependency Ruby client for the Circle.so Admin API v2 — full coverage of all 68 endpoints, classified errors, token-version detection.
 - 💌 **[kit-rb](https://github.com/linyiru/kit-rb)** — A modern, fully-typed Ruby client for the Kit (ConvertKit) API v4 — all 83 operations, pinned to the vendored OpenAPI document by contract tests.
 - 🔭 **[skylight-cli](https://github.com/linyiru/skylight-cli)** — Unofficial read-only CLI & Node.js client for Skylight (skylight.io) performance data — components, endpoints, deploys. Zero dependencies, uses your Skylight MCP token.
+- 💬 **[crisp-cli](https://github.com/solcreek/crisp-cli)** — `crispctl`: an agent-friendly CLI for the Crisp REST and real-time APIs — reply, note, resolve, assign, search — with JSON output, credential profiles and a read-only mode.
 
 ### Taiwan Payments
 
