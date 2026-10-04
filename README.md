@@ -29,6 +29,7 @@
 - 💰 **[monetakit](https://github.com/MonetaKit/monetakit)** — Pricing & subscriptions as code, PSP-agnostic. Author pricing in a Planfile, `plan`/`apply` to any PSP. Self-hostable Go binary + runtime SDK.
 - 🔧 **[kinsta-cli](https://github.com/linyiru/kinsta-cli)** — Unofficial CLI for managing Kinsta-hosted WordPress sites — bulk health checks, log diagnostics, cache/PHP control, one-shot wp-rocket PHP 8 remediation.
 - 🔥 **[firerunner](https://github.com/solcreek/firerunner)** — Ephemeral Firecracker microVM runners for GitHub Actions — one disposable microVM per job, minimal-dependency Go, direct Firecracker API.
+- 🥧 **[omarchy-pi](https://github.com/linyiru/omarchy-pi)** — Build an Omarchy disk image for the Raspberry Pi from Arch Linux ARM. Prototype, booting on a Raspberry Pi 5 through first-boot setup to the desktop.
 
 ### Translation
 
@@ -45,6 +46,12 @@
 - ✨ **[sparkdown](https://github.com/momiji-rs/sparkdown)** — A fast, standards-first CommonMark parser in Rust: 100% CommonMark 0.31.2 (652/652), zero dependencies. *markdown, with a spark.*
 - 🌈 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
 - 💎 **[oxidecop](https://github.com/momiji-rs/oxidecop)** — A fast, native, RuboCop-compatible Ruby linter & autocorrector in Rust, over the Prism parser. *ruff, but for Ruby* — byte-identical output.
+- 🪶 **[ovid](https://github.com/ovid-sh/ovid)** — A small compiled language whose toolchain is built for agents: JSON-lines tool output, precise errors with hints, id-addressed batch edits. Emits static Linux x86-64 ELF with no libc; written in Go and self-hosted.
+
+### Terminal
+
+- 📸 **[termshot](https://github.com/momiji-rs/termshot)** — Turn raw terminal output (a PTY log with ANSI escapes) into a PNG of the final screen, pixel-identical on macOS and Linux. Headless Rust, no crates.io dependencies.
+- 🎧 **[agentamp](https://github.com/momiji-rs/agentamp)** — A tiny, agent-native terminal music player for Spotify, YouTube and local files. One Rust binary; every control is a CLI command with `--json` and an MCP tool.
 
 ### Data & Research
 
