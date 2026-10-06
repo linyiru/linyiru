@@ -1,0 +1,99 @@
+👋 Hi, I'm Lawrence
+
+## Now
+
+🛠️ Builder · 💻 Developer · ✍️ Writer
+
+🦀 I work across **Rust · Ruby · Go · TypeScript/JavaScript**, and I'm all-in on the **Rust ecosystem** — most of my open source reimagines the JS/web toolchain in Rust.
+
+- 🌊 Building [Creek](https://github.com/solcreek/creek) — Open-source edge deployment platform. Deploy full-stack apps to Cloudflare Workers in seconds.
+- 🔄 Building [Loopix](https://loopix.com/)
+- 🧠 Building [Loopwise](https://loopwise.ai/)
+- 💳 Building [Recur](https://recur.tw/)
+- 🔗 Building [hookpipe](https://github.com/hookpipe/hookpipe)
+
+## Open-source projects
+
+### Infrastructure
+
+- 💧 **[dew](https://github.com/solcreek/dew)** — Ultra-lightweight VM + deploy tool. One Go binary for local dev and production.
+- ⚓ **[capstan](https://github.com/solcreek/capstan)** — Multi-provider VPS lifecycle library — Hetzner, DigitalOcean, Linode, Vultr. TypeScript + Go, one shared spec.
+- 🔥 **[groundflare](https://github.com/solcreek/groundflare)** — Run your Cloudflare Worker on your own hardware. Wrangler-like DX for self-hosted workerd.
+- 🔗 **[hookpipe](https://github.com/hookpipe/hookpipe)** — Open-source webhook infrastructure. Typed providers, verification, routing, retry. CLI-first, agent-optimized.
+- ⛵ **[marina](https://github.com/solcreek/marina)** — Desktop app for managing containers, VMs, and VPS instances via Dew.
+- 🌳 **[grove](https://github.com/solcreek/grove)** — Desktop app for discovering and running open-source applications via Dew.
+- 🧊 **[frost](https://github.com/solcreek/frost)** — Freeze and instantly thaw Windows-on-ARM VMs on Apple Silicon. Golden image builder + ~10s resume from snapshot.
+- 🌅 **[sunbreak](https://github.com/solcreek/sunbreak)** — Local-first keyword monitoring and Hacker News research service. SQLite + FTS5, self-hosted.
+- 🌐 **[terraform-provider-gandi](https://github.com/solcreek/terraform-provider-gandi)** — Terraform/OpenTofu provider for Gandi — domains, nameservers, glue records & LiveDNS via the Gandi v5 API. Dependency-free Go client.
+- 🖼️ **[oximg](https://github.com/oximg/oximg)** — High-performance image compression in Rust: library, CLI & self-hostable HTTP server. Linear-light SIMD resize + mozjpeg. An imgproxy/imagor alternative.
+- 💰 **[monetakit](https://github.com/MonetaKit/monetakit)** — Pricing & subscriptions as code, PSP-agnostic. Author pricing in a Planfile, `plan`/`apply` to any PSP. Self-hostable Go binary + runtime SDK.
+- 🔧 **[kinsta-cli](https://github.com/linyiru/kinsta-cli)** — Unofficial CLI for managing Kinsta-hosted WordPress sites — bulk health checks, log diagnostics, cache/PHP control, one-shot wp-rocket PHP 8 remediation.
+- 🔥 **[firerunner](https://github.com/solcreek/firerunner)** — Ephemeral Firecracker microVM runners for GitHub Actions — one disposable microVM per job, minimal-dependency Go, direct Firecracker API.
+- 🥧 **[omarchy-pi](https://github.com/linyiru/omarchy-pi)** — Build an Omarchy disk image for the Raspberry Pi from Arch Linux ARM. Prototype, booting on a Raspberry Pi 5 through first-boot setup to the desktop.
+
+### Translation
+
+- 📖 **[margin-read](https://github.com/withmargin/margin-read)** — Privacy-first bilingual webpage translation browser extension.
+- 📄 **[pdf-translate](https://github.com/withmargin/pdf-translate)** — Translate PDF documents using LLMs. Preserves original layout. Rust + TypeScript.
+
+### Language & Runtime
+
+- 🍁 **[rubyrs](https://github.com/linyiru/rubyrs)** — A tiny Ruby-subset interpreter in Rust, built on top of Prism. Bytecode VM + mark-sweep GC.
+- 🎨 **[sasso](https://github.com/momiji-rs/sasso)** — A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
+- 🌼 **[june](https://github.com/junebuild/june)** — Agent-native React framework: one route serves humans (streamed HTML) and agents (markdown, JSON, MCP) from the same source. Rust + V8 runtime, edge-first.
+- 📚 **[kura](https://github.com/kurajs/kura)** — The knowledgebase for humans and agents. Agent-native docs infrastructure built on June — one Markdown source becomes a docs site *and* a callable MCP server.
+- 📝 **[rostdown](https://github.com/momiji-rs/rostdown)** — A kramdown-compatible Markdown renderer in Rust: byte-identical HTML or a clean decline. Zero-dep, unsafe-free default build.
+- ✨ **[sparkdown](https://github.com/momiji-rs/sparkdown)** — A fast, standards-first CommonMark parser in Rust: 100% CommonMark 0.31.2 (652/652), zero dependencies. *markdown, with a spark.*
+- 🌈 **[carmine](https://github.com/momiji-rs/carmine)** — A rouge-compatible syntax-highlighting engine in Rust: runs rule tables from Ruby's rouge lexers (240+ languages) and emits byte-identical HTML, at native speed.
+- 💎 **[oxidecop](https://github.com/momiji-rs/oxidecop)** — A fast, native, RuboCop-compatible Ruby linter & autocorrector in Rust, over the Prism parser. *ruff, but for Ruby* — byte-identical output.
+- 🪶 **[ovid](https://github.com/ovid-sh/ovid)** — A small compiled language whose toolchain is built for agents: JSON-lines tool output, precise errors with hints, id-addressed batch edits. Emits static Linux x86-64 ELF with no libc; written in Go and self-hosted.
+
+### Terminal
+
+- 📸 **[termshot](https://github.com/momiji-rs/termshot)** — Turn raw terminal output (a PTY log with ANSI escapes) into a PNG of the final screen, pixel-identical on macOS and Linux. Headless Rust, no crates.io dependencies.
+- 🎧 **[agentamp](https://github.com/momiji-rs/agentamp)** — A tiny, agent-native terminal music player for Spotify, YouTube and local files. One Rust binary; every control is a CLI command with `--json` and an MCP tool.
+- 📥 **[crisp-tui](https://github.com/solcreek/crisp-tui)** — A terminal inbox for Crisp, built on OpenTUI and crispctl. People use the TUI; agents use JSON commands and can prepare reply drafts for human review.
+
+### Typography
+
+- 🔵 **[tenten 點點](https://github.com/linyiru/tenten)** — A variable CJK dot font: Traditional Chinese, Simplified Chinese, Japanese and Korean on a 12 × 12 lattice. `wght` sets dot size, `ROND` dot shape. Built in Rust, std only. [Specimen](https://linyiru.github.io/tenten/).
+
+### Data & Research
+
+- 📊 **[yc-oss-analytics](https://github.com/linyiru/yc-oss-analytics)** — How YC open-source teams *actually* build — work intensity, tech stack & workflow, decoded from public git history (~158 companies). Python pipeline + Astro site.
+- 🗂️ **[awesome-okf](https://github.com/linyiru/awesome-okf)** — A curated list of resources for the Open Knowledge Format (OKF) — an open, vendor-neutral spec for agent-readable knowledge as Markdown + YAML frontmatter.
+
+### API Clients
+
+- 🟦 **[circle-so-sdk](https://github.com/linyiru/circle-so-sdk)** — Typed, zero-dependency TypeScript client for the Circle.so Admin API v2 — members, spaces, access groups, token-version detection, plus captured fixtures.
+- 🔴 **[circle-so](https://github.com/linyiru/circle-so)** — Zero-dependency Ruby client for the Circle.so Admin API v2 — full coverage of all 68 endpoints, classified errors, token-version detection.
+- 💌 **[kit-rb](https://github.com/linyiru/kit-rb)** — A modern, fully-typed Ruby client for the Kit (ConvertKit) API v4 — all 83 operations, pinned to the vendored OpenAPI document by contract tests.
+- 🔭 **[skylight-cli](https://github.com/linyiru/skylight-cli)** — Unofficial read-only CLI & Node.js client for Skylight (skylight.io) performance data — components, endpoints, deploys. Zero dependencies, uses your Skylight MCP token.
+- 💬 **[crisp-cli](https://github.com/solcreek/crisp-cli)** — `crispctl`: an agent-friendly CLI for the Crisp REST and real-time APIs — reply, note, resolve, assign, search — with JSON output, credential profiles and a read-only mode.
+
+### Taiwan Payments
+
+- 🤖 **[paid-tw/skills](https://github.com/paid-tw/skills)** — Agent skills for Taiwan PSPs
+- 🧰 **[paid-tw/cli](https://github.com/paid-tw/cli)** — CLI tools for Taiwan PSPs
+- 🧾 **[invoice-helper](https://github.com/kaikhq/invoice-helper)** — Invoice helper for Taiwan
+- 🧮 **[einvoice](https://github.com/paid-tw/einvoice)** — Unified e-invoice SDK for Taiwan — one provider-agnostic interface across Amego, ECPay, ezPay & the MOF platform.
+- 💳 **[payment](https://github.com/paid-tw/payment)** — Unified payment gateway SDK for Taiwan — one `PaymentProvider` interface across PAYUNi, NewebPay & ECPay.
+
+### Templates
+
+- ⚡ **[mcp-server-vercel-template](https://github.com/linyiru/mcp-server-vercel-template)** — Production-ready MCP server template for Vercel + Bun
+
+## Contributions
+
+> Projects I contribute to, but don't maintain — mostly the Rust-powered JS/web toolchain.
+
+- ⚓ **[oxc](https://github.com/oxc-project/oxc)** — High-performance JavaScript tools in Rust. Landed performance optimizations across the linter, transformer, semantic analyzer & formatter.
+- 🧾 **[abookyun/einvoice](https://github.com/abookyun/einvoice)** — Ruby API wrapper for Taiwan e-invoice services. Fixed latent validator bugs, enabled TLS certificate verification & repaired the CI workflow.
+
+## Connect
+
+👉 Follow me on [X](https://x.com/linyiru)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/linyiru)
